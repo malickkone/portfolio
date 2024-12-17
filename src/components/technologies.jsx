@@ -55,7 +55,7 @@ export default function Technologies(){
                 variants={iconVariant(2.5)}
                 initial='initial'
                 animate='animate'
-                 className="rounded-2xl border-2 border-neutral-800 p-2">
+                 className="rounded-2xl border-2 border-neutral-800 p-2 ">
                     <FaGithub className="text-white text-5xl"/>
                 </motion.div>
                 {/* <motion.div
