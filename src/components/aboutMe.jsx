@@ -25,7 +25,7 @@ export default function AboutMe() {
                     initial="hidden"
                     animate="visible"
                     className="size-[400px] mr-auto">
-                    <img src={pic} alt="" className="w-full rounded-xl " />
+                    <img src={pic} alt="" className="w-full rounded-xl" />
                 </motion.div>
                 <motion.div
                     variants={container(1.2, 100)}
